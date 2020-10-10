@@ -38,7 +38,10 @@ function spans($list) {
 <!DOCTYPE html>
 <html id="home" lang="en">
 <head>
-<meta charset=utf-8 />
+<meta charset="utf-8">
+<meta name="description" content="HTML5 Demos and Examples">
+<meta name="keywords" content="HTML, CSS, Javascript, php">
+<meta name="author" content="html5demos">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>HTML5 Demos and Examples</title>
 <link rel="stylesheet" href="/css/html5demos.css" />
@@ -95,7 +98,9 @@ function spans($list) {
     </a>
     <footer><a id="built" href="https://twitter.com/rem">@rem built this</a></footer>
 </section>
+	<div>
 <a id="forkme" href="https://github.com/remy/html5demos"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+	</div>	
 <script
   src="https://code.jquery.com/jquery-1.12.4.min.js"
   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
